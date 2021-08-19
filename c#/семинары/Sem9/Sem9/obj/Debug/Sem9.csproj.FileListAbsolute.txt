@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem9\Sem9\obj\Debug\Sem9.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem9\Sem9\bin\Debug\Sem9.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem9\Sem9\bin\Debug\Sem9.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem9\Sem9\bin\Debug\Sem9.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem9\Sem9\obj\Debug\Sem9.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem9\Sem9\obj\Debug\Sem9.pdb

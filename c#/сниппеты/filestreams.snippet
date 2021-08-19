@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>filestreams</Title>
+      <Shortcut>fs</Shortcut>
+      <Description>Фрагмент кода для файловых потоков</Description>
+      <Author>Na</Author>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>operation</ID>
+          <ToolTip>Операция, для которой используются потоки.</ToolTip>
+          <Default>чтения</Default>
+        </Literal>
+        <Literal>
+          <ID>filename</ID>
+          <ToolTip>Имя обрабатываемого файла.</ToolTip>
+          <Default>file</Default>
+        </Literal>
+        <Literal>
+          <ID>mode</ID>
+          <ToolTip>Режим работы с файлом.</ToolTip>
+          <Default>Open</Default>
+        </Literal>
+        <Literal>
+          <ID>access</ID>
+          <ToolTip>ТДоступ к файлу.</ToolTip>
+          <Default>Read</Default>
+        </Literal>
+        <Literal>
+          <ID>streamtype</ID>
+          <ToolTip>Тип потока.</ToolTip>
+          <Default>Reader</Default>
+        </Literal>
+        <Literal>
+          <ID>streamname</ID>
+          <ToolTip>Имя потока.</ToolTip>
+          <Default>sr</Default>
+        </Literal>
+        <Literal>
+          <ID>encoding</ID>
+          <ToolTip>ТКодировка.</ToolTip>
+          <Default>Unicode</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="csharp">
+        <![CDATA[
+      	/// Реализация $operation$ с использованием файловых потоков.
+		  	/// Альтернативно можно было руками создавать новый поток и
+		  	/// осуществлять Flush и Dispose, но так удобнее.
+			using (FileStream fs = new FileStream($filename$, FileMode.$mode$, FileAccess.$access$))
+			{
+				using (Stream$streamtype$ $streamname$ = new Stream$streamtype$(fs, Encoding.$encoding$))
+				{
+
+				}
+			}
+  
+  ]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

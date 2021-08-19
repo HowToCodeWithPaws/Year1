@@ -1,0 +1,7 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem6\Sem6\bin\Debug\Sem6.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem6\Sem6\bin\Debug\Sem6.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem6\Sem6\bin\Debug\Sem6.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem6\Sem6\obj\Debug\Sem6.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem6\Sem6\obj\Debug\Sem6.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem6\Sem6\obj\Debug\Sem6.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem6\Sem6\obj\Debug\Sem6.pdb

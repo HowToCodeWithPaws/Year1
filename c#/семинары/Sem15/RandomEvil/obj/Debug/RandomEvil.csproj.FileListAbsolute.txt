@@ -1,0 +1,9 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\RandomEvil\RandomEvil\bin\Debug\RandomEvil.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\RandomEvil\RandomEvil\bin\Debug\RandomEvil.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\RandomEvil\RandomEvil\bin\Debug\RandomEvil.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\RandomEvil\RandomEvil\bin\Debug\ClassLibrary1.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\RandomEvil\RandomEvil\bin\Debug\ClassLibrary1.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\RandomEvil\RandomEvil\obj\Debug\RandomEvil.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\RandomEvil\RandomEvil\obj\Debug\RandomEvil.csproj.CopyComplete
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\RandomEvil\RandomEvil\obj\Debug\RandomEvil.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\RandomEvil\RandomEvil\obj\Debug\RandomEvil.pdb

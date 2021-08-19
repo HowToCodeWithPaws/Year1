@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Read</Title>
+      <Shortcut>rd</Shortcut>
+      <Description>Фрагмент кода для чтения с повтором ввода</Description>
+      <Author>Me</Author>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>type</ID>
+          <ToolTip>Тип вводимых данных</ToolTip>
+          <Default>int</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="csharp">
+        <![CDATA[public static &type& Read()
+		{
+			$type$ input;
+
+			do
+			{
+				Console.WriteLine("");
+			} while (!$type$.TryParse(Console.ReadLine(), out input));
+
+			return input;
+		}]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

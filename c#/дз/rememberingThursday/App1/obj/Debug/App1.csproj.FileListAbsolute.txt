@@ -1,0 +1,9 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\rememberingThursday\App1\bin\Debug\App1.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\rememberingThursday\App1\bin\Debug\App1.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\rememberingThursday\App1\bin\Debug\App1.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\rememberingThursday\App1\bin\Debug\rememberingThursday.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\rememberingThursday\App1\bin\Debug\rememberingThursday.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\rememberingThursday\App1\obj\Debug\App1.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\rememberingThursday\App1\obj\Debug\App1.csproj.CopyComplete
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\rememberingThursday\App1\obj\Debug\App1.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\rememberingThursday\App1\obj\Debug\App1.pdb

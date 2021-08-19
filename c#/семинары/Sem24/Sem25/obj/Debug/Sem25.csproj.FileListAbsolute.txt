@@ -1,0 +1,12 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem25\Sem25\bin\Debug\Sem25.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem25\Sem25\bin\Debug\Sem25.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem25\Sem25\bin\Debug\Sem25.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem25\Sem25\obj\Debug\Sem25.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem25\Sem25\obj\Debug\Sem25.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem25\Sem25\obj\Debug\Sem25.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem24\Sem25\bin\Debug\Sem25.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem24\Sem25\bin\Debug\Sem25.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem24\Sem25\bin\Debug\Sem25.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem24\Sem25\obj\Debug\Sem25.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem24\Sem25\obj\Debug\Sem25.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem24\Sem25\obj\Debug\Sem25.pdb

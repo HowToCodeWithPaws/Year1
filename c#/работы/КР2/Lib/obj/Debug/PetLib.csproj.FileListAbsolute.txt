@@ -1,0 +1,5 @@
+C:\Users\Natalya\Desktop\ZubarevaNataliaKR\Lib\bin\Debug\Lib.dll
+C:\Users\Natalya\Desktop\ZubarevaNataliaKR\Lib\bin\Debug\Lib.pdb
+C:\Users\Natalya\Desktop\ZubarevaNataliaKR\Lib\obj\Debug\PetLib.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\ZubarevaNataliaKR\Lib\obj\Debug\Lib.dll
+C:\Users\Natalya\Desktop\ZubarevaNataliaKR\Lib\obj\Debug\Lib.pdb

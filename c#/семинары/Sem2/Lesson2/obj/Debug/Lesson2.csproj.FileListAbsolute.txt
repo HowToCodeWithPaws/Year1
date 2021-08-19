@@ -1,0 +1,14 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\NewChapter\Lesson2\Lesson2\bin\Debug\Lesson2.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\NewChapter\Lesson2\Lesson2\bin\Debug\Lesson2.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\NewChapter\Lesson2\Lesson2\bin\Debug\Lesson2.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\NewChapter\Lesson2\Lesson2\obj\Debug\Lesson2.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\NewChapter\Lesson2\Lesson2\obj\Debug\Lesson2.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\NewChapter\Lesson2\Lesson2\obj\Debug\Lesson2.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\NewChapter\Lesson2\Lesson2\obj\Debug\Lesson2.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem2\Lesson2\bin\Debug\Lesson2.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem2\Lesson2\bin\Debug\Lesson2.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem2\Lesson2\bin\Debug\Lesson2.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem2\Lesson2\obj\Debug\Lesson2.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem2\Lesson2\obj\Debug\Lesson2.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem2\Lesson2\obj\Debug\Lesson2.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem2\Lesson2\obj\Debug\Lesson2.csproj.CoreCompileInputs.cache

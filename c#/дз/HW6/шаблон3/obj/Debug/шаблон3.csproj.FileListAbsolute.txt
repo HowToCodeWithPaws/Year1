@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW8\шаблон3\bin\Debug\шаблон3.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW8\шаблон3\bin\Debug\шаблон3.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW8\шаблон3\bin\Debug\шаблон3.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW8\шаблон3\obj\Debug\шаблон3.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW8\шаблон3\obj\Debug\шаблон3.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW8\шаблон3\obj\Debug\шаблон3.pdb

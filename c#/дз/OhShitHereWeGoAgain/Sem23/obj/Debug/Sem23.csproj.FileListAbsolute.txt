@@ -1,0 +1,9 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\OhShitHereWeGoAgain\Sem23\bin\Debug\Sem23.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\OhShitHereWeGoAgain\Sem23\bin\Debug\Sem23.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\OhShitHereWeGoAgain\Sem23\bin\Debug\Sem23.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\OhShitHereWeGoAgain\Sem23\bin\Debug\FantasyLib.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\OhShitHereWeGoAgain\Sem23\bin\Debug\FantasyLib.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\OhShitHereWeGoAgain\Sem23\obj\Debug\Sem23.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\OhShitHereWeGoAgain\Sem23\obj\Debug\Sem23.csproj.CopyComplete
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\OhShitHereWeGoAgain\Sem23\obj\Debug\Sem23.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\OhShitHereWeGoAgain\Sem23\obj\Debug\Sem23.pdb

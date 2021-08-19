@@ -1,0 +1,5 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\rememberingThursday\rememberingThursday\bin\Debug\rememberingThursday.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\rememberingThursday\rememberingThursday\bin\Debug\rememberingThursday.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\rememberingThursday\rememberingThursday\obj\Debug\rememberingThursday.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\rememberingThursday\rememberingThursday\obj\Debug\rememberingThursday.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\rememberingThursday\rememberingThursday\obj\Debug\rememberingThursday.pdb

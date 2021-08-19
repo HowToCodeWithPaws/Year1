@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem7\Classes\bin\Debug\Classes.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem7\Classes\bin\Debug\Classes.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem7\Classes\bin\Debug\Classes.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem7\Classes\obj\Debug\Classes.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem7\Classes\obj\Debug\Classes.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem7\Classes\obj\Debug\Classes.csprojAssemblyReference.cache

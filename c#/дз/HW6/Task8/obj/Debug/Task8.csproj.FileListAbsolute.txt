@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW8\Task8\bin\Debug\Task8.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW8\Task8\bin\Debug\Task8.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW8\Task8\bin\Debug\Task8.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW8\Task8\obj\Debug\Task8.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW8\Task8\obj\Debug\Task8.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW8\Task8\obj\Debug\Task8.csprojAssemblyReference.cache

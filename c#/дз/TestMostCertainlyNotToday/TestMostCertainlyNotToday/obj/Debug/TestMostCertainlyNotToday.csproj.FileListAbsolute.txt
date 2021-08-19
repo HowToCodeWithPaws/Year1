@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TestMostCertainlyNotToday\TestMostCertainlyNotToday\bin\Debug\TestMostCertainlyNotToday.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TestMostCertainlyNotToday\TestMostCertainlyNotToday\bin\Debug\TestMostCertainlyNotToday.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TestMostCertainlyNotToday\TestMostCertainlyNotToday\bin\Debug\TestMostCertainlyNotToday.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TestMostCertainlyNotToday\TestMostCertainlyNotToday\obj\Debug\TestMostCertainlyNotToday.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TestMostCertainlyNotToday\TestMostCertainlyNotToday\obj\Debug\TestMostCertainlyNotToday.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TestMostCertainlyNotToday\TestMostCertainlyNotToday\obj\Debug\TestMostCertainlyNotToday.pdb

@@ -1,0 +1,12 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\ConsoleApp2\bin\Debug\EKRLib.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\ConsoleApp2\bin\Debug\EKRLib.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\ConsoleApp2\obj\Debug\deserialize.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\ConsoleApp2\obj\Debug\deserialize.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\ConsoleApp2\obj\Debug\deserialize.csproj.CopyComplete
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

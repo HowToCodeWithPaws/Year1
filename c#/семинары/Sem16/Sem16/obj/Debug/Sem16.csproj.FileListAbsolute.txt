@@ -1,0 +1,12 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem16\Sem16\bin\Debug\Sem16.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem16\Sem16\bin\Debug\Sem16.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem16\Sem16\bin\Debug\Sem16.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem16\Sem16\obj\Debug\Sem16.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem16\Sem16\obj\Debug\Sem16.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem16\Sem16\obj\Debug\Sem16.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem16\Sem16\bin\Debug\Sem16.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem16\Sem16\bin\Debug\Sem16.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem16\Sem16\bin\Debug\Sem16.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem16\Sem16\obj\Debug\Sem16.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem16\Sem16\obj\Debug\Sem16.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem16\Sem16\obj\Debug\Sem16.pdb

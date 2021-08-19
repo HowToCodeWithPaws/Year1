@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskI\bin\Debug\TaskI.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskI\bin\Debug\TaskI.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskI\bin\Debug\TaskI.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskI\obj\Debug\TaskI.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskI\obj\Debug\TaskI.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskI\obj\Debug\TaskI.pdb

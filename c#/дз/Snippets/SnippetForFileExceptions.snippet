@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>FileException</Title>
+      <Shortcut>fe</Shortcut>
+      <Description>Фрагмент кода для обработки исключений при работе с файлами</Description>
+      <Author>Me</Author>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Code Language="csharp">
+        <![CDATA[
+        			/// Блок try catch обрабатывает возможные исключения, возникающие при работе с файлами.
+			try
+			{
+
+			}
+       catch(FileNotFoundException e)
+      {
+        Console.WriteLine("Файл не существует" + Environment.NewLine + e);
+      }
+			catch (IOException e)
+			{
+				Console.WriteLine("Ошибка ввода/вывода" + Environment.NewLine + e);
+			}
+			catch (UnauthorizedAccessException e)
+			{
+				Console.WriteLine("Ошибка доступа: у вас нет разрешения на создание файла" + Environment.NewLine + e);
+			}
+			catch(System.Security.SecurityException e)
+			{
+				Console.WriteLine("Ошибка безопасности" + Environment.NewLine + e);
+			}
+			finally
+			{
+
+			}]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

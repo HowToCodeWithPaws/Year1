@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem3\calculations\bin\Debug\calculations.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem3\calculations\bin\Debug\calculations.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem3\calculations\bin\Debug\calculations.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem3\calculations\obj\Debug\calculations.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem3\calculations\obj\Debug\calculations.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem3\calculations\obj\Debug\calculations.pdb

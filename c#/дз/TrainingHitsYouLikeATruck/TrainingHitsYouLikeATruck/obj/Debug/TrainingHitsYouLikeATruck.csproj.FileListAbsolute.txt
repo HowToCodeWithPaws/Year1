@@ -1,0 +1,9 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TrainingHitsYouLikeATruck\TrainingHitsYouLikeATruck\bin\Debug\TrainingHitsYouLikeATruck.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TrainingHitsYouLikeATruck\TrainingHitsYouLikeATruck\bin\Debug\TrainingHitsYouLikeATruck.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TrainingHitsYouLikeATruck\TrainingHitsYouLikeATruck\bin\Debug\TrainingHitsYouLikeATruck.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TrainingHitsYouLikeATruck\TrainingHitsYouLikeATruck\bin\Debug\ClassLibrary1.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TrainingHitsYouLikeATruck\TrainingHitsYouLikeATruck\bin\Debug\ClassLibrary1.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TrainingHitsYouLikeATruck\TrainingHitsYouLikeATruck\obj\Debug\TrainingHitsYouLikeATruck.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TrainingHitsYouLikeATruck\TrainingHitsYouLikeATruck\obj\Debug\TrainingHitsYouLikeATruck.csproj.CopyComplete
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TrainingHitsYouLikeATruck\TrainingHitsYouLikeATruck\obj\Debug\TrainingHitsYouLikeATruck.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TrainingHitsYouLikeATruck\TrainingHitsYouLikeATruck\obj\Debug\TrainingHitsYouLikeATruck.pdb

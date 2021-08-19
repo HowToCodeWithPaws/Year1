@@ -1,0 +1,5 @@
+C:\Users\Natalya\Desktop\КР\BirdsLib\bin\Debug\BirdsLib.dll
+C:\Users\Natalya\Desktop\КР\BirdsLib\bin\Debug\BirdsLib.pdb
+C:\Users\Natalya\Desktop\КР\BirdsLib\obj\Debug\BirdsLib.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\КР\BirdsLib\obj\Debug\BirdsLib.dll
+C:\Users\Natalya\Desktop\КР\BirdsLib\obj\Debug\BirdsLib.pdb

@@ -1,0 +1,9 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\EKRLib\bin\Debug\EKRLib.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\EKRLib\bin\Debug\EKRLib.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\EKRLib\obj\Debug\EKRLib.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\EKRLib\obj\Debug\EKRLib.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\EKRLib\obj\Debug\EKRLib.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\EKRLib\obj\Debug\EKRLib.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\EKRLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\EKRLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\gettingReady\EKRLib\obj\Debug\EKRLib.csproj.CopyComplete

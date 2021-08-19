@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sem5", "Sem5\Sem5.csproj", "{FF9E4DCB-631C-4B3E-A1E4-6BB21A921C1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transponating", "Transponating\Transponating.csproj", "{522A3CD0-203D-4CBE-9AE6-BB27DB4138B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF9E4DCB-631C-4B3E-A1E4-6BB21A921C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9E4DCB-631C-4B3E-A1E4-6BB21A921C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9E4DCB-631C-4B3E-A1E4-6BB21A921C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9E4DCB-631C-4B3E-A1E4-6BB21A921C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522A3CD0-203D-4CBE-9AE6-BB27DB4138B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522A3CD0-203D-4CBE-9AE6-BB27DB4138B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522A3CD0-203D-4CBE-9AE6-BB27DB4138B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522A3CD0-203D-4CBE-9AE6-BB27DB4138B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23657DC2-F2EF-48C3-817B-EE4939AD614A}
+	EndGlobalSection
+EndGlobal

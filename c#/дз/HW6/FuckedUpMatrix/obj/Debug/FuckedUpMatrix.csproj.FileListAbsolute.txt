@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW8\FuckedUpMatrix\bin\Debug\FuckedUpMatrix.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW8\FuckedUpMatrix\bin\Debug\FuckedUpMatrix.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW8\FuckedUpMatrix\bin\Debug\FuckedUpMatrix.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW8\FuckedUpMatrix\obj\Debug\FuckedUpMatrix.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW8\FuckedUpMatrix\obj\Debug\FuckedUpMatrix.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW8\FuckedUpMatrix\obj\Debug\FuckedUpMatrix.csprojAssemblyReference.cache

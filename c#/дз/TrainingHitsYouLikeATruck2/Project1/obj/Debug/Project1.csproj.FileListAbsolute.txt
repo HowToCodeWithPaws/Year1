@@ -1,0 +1,5 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\ItIsToday\Project1\bin\Debug\Project1.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\ItIsToday\Project1\bin\Debug\Project1.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\ItIsToday\Project1\bin\Debug\Project1.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\ItIsToday\Project1\obj\Debug\Project1.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\ItIsToday\Project1\obj\Debug\Project1.pdb

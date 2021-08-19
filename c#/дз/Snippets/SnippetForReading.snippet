@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Read</Title>
+      <Shortcut>rd</Shortcut>
+      <Description>Фрагмент кода для чтения с повтором ввода</Description>
+      <Author>Me</Author>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>type</ID>
+          <ToolTip>Тип вводимых данных</ToolTip>
+          <Default>int</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="csharp">
+        <![CDATA[
+        /// <summary>
+		/// Метод выводит сообщение с переданной информацией и осуществляет
+		/// считывание переменной указанного типа с использованием метода 
+		/// TryParse в цикле do while до тех пор, пока пользователь не введет
+		/// данные, для которых осуществится парсинг, также метод принимает
+		/// на вход границы значений считываемого числа, соответствие которым
+		/// также проверяется внутри условия do while.
+		/// </summary>
+		/// <param name="message"> Входной параметр выводимого сообщения. </param>
+		/// <param name="minvalue"> Входной параметр нижней границы значения 
+		/// числа. </param>
+		/// <param name="maxvalue"> Входной параметр верхней границы значения
+		/// числа. </param>
+		/// <returns>Метод возвращает считанные данные, приведенные к требуемому 
+		/// типу.</returns>
+		public static $type$ Read(string message, $type$ minvalue=$type$.MinValue, $type$ maxvalue=$type$.MaxValue)
+		{
+			$type$ input;
+
+			do
+			{
+				Console.WriteLine(message);
+			} while (!$type$.TryParse(Console.ReadLine(), out input) || input < minvalue || input > maxvalue);
+
+			return input;
+		}]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

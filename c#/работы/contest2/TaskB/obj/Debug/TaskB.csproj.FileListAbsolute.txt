@@ -1,0 +1,7 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskB\bin\Debug\TaskB.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskB\bin\Debug\TaskB.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskB\bin\Debug\TaskB.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskB\obj\Debug\TaskB.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskB\obj\Debug\TaskB.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskB\obj\Debug\TaskB.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskB\obj\Debug\TaskB.csprojAssemblyReference.cache

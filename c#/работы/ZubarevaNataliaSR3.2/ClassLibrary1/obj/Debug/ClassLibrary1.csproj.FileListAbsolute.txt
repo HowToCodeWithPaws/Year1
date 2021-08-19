@@ -1,0 +1,10 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR32\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR32\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR32\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR32\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR32\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Зубарева Наталия СР3\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Зубарева Наталия СР3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Зубарева Наталия СР3\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Зубарева Наталия СР3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Зубарева Наталия СР3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

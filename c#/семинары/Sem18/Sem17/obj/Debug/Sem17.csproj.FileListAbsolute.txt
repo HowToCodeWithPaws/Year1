@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem17\Sem17\bin\Debug\Sem17.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem17\Sem17\bin\Debug\Sem17.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem17\Sem17\bin\Debug\Sem17.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem17\Sem17\obj\Debug\Sem17.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem17\Sem17\obj\Debug\Sem17.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem17\Sem17\obj\Debug\Sem17.pdb

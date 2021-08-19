@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem10\Sem10\bin\Debug\Sem10.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem10\Sem10\bin\Debug\Sem10.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem10\Sem10\bin\Debug\Sem10.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem10\Sem10\obj\Debug\Sem10.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem10\Sem10\obj\Debug\Sem10.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem10\Sem10\obj\Debug\Sem10.pdb

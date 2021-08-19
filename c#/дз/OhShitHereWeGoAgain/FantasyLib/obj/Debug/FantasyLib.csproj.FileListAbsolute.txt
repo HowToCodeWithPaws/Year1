@@ -1,0 +1,5 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\OhShitHereWeGoAgain\FantasyLib\bin\Debug\FantasyLib.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\OhShitHereWeGoAgain\FantasyLib\bin\Debug\FantasyLib.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\OhShitHereWeGoAgain\FantasyLib\obj\Debug\FantasyLib.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\OhShitHereWeGoAgain\FantasyLib\obj\Debug\FantasyLib.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\OhShitHereWeGoAgain\FantasyLib\obj\Debug\FantasyLib.pdb

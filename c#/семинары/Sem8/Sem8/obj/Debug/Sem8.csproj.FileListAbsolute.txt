@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem8\Sem8\bin\Debug\Sem8.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem8\Sem8\bin\Debug\Sem8.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem8\Sem8\bin\Debug\Sem8.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem8\Sem8\obj\Debug\Sem8.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem8\Sem8\obj\Debug\Sem8.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem8\Sem8\obj\Debug\Sem8.pdb

@@ -1,0 +1,7 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\Sem25\Sem25\bin\Debug\Sem25.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\Sem25\Sem25\bin\Debug\Sem25.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\Sem25\Sem25\bin\Debug\Sem25.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\Sem25\Sem25\obj\Debug\Sem25.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\Sem25\Sem25\obj\Debug\Sem25.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\Sem25\Sem25\obj\Debug\Sem25.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\Sem25\Sem25\obj\Debug\Sem25.pdb

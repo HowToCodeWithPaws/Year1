@@ -1,0 +1,6 @@
+C:\Users\Natalya\source\repos\ConsoleApp1\ASCIIDecoder\bin\Debug\ASCIIDecoder.exe.config
+C:\Users\Natalya\source\repos\ConsoleApp1\ASCIIDecoder\bin\Debug\ASCIIDecoder.exe
+C:\Users\Natalya\source\repos\ConsoleApp1\ASCIIDecoder\bin\Debug\ASCIIDecoder.pdb
+C:\Users\Natalya\source\repos\ConsoleApp1\ASCIIDecoder\obj\Debug\ASCIIDecoder.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\source\repos\ConsoleApp1\ASCIIDecoder\obj\Debug\ASCIIDecoder.exe
+C:\Users\Natalya\source\repos\ConsoleApp1\ASCIIDecoder\obj\Debug\ASCIIDecoder.pdb

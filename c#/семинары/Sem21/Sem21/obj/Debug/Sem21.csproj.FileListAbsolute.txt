@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem21\Sem21\bin\Debug\Sem21.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem21\Sem21\bin\Debug\Sem21.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem21\Sem21\bin\Debug\Sem21.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem21\Sem21\obj\Debug\Sem21.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem21\Sem21\obj\Debug\Sem21.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem21\Sem21\obj\Debug\Sem21.pdb

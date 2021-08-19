@@ -1,0 +1,12 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\Sem26\Sem26\bin\Debug\Sem26.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\Sem26\Sem26\bin\Debug\Sem26.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\Sem26\Sem26\bin\Debug\Sem26.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\Sem26\Sem26\bin\Debug\EntityFramework.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\Sem26\Sem26\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\Sem26\Sem26\bin\Debug\EntityFramework.xml
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\Sem26\Sem26\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\Sem26\Sem26\obj\Debug\Sem26.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\Sem26\Sem26\obj\Debug\Sem26.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\Sem26\Sem26\obj\Debug\Sem26.csproj.CopyComplete
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\Sem26\Sem26\obj\Debug\Sem26.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\Sem26\Sem26\obj\Debug\Sem26.pdb

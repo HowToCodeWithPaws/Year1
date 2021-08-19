@@ -1,0 +1,7 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR\SR\bin\Debug\SR.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR\SR\bin\Debug\SR.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR\SR\bin\Debug\SR.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR\SR\obj\Debug\SR.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR\SR\obj\Debug\SR.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR\SR\obj\Debug\SR.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR\SR\obj\Debug\SR.pdb

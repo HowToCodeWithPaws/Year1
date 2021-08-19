@@ -1,0 +1,10 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\подбелсосатб\подбелсосатб\bin\Debug\подбелсосатб.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\подбелсосатб\подбелсосатб\bin\Debug\подбелсосатб.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\подбелсосатб\подбелсосатб\bin\Debug\подбелсосатб.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\подбелсосатб\подбелсосатб\obj\Debug\подбелсосатб.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\подбелсосатб\подбелсосатб\obj\Debug\подбелсосатб.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\подбелсосатб\подбелсосатб\obj\Debug\подбелсосатб.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\подбелсосатб\подбелсосатб\obj\Debug\подбелсосатб.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\подбелсосатб\подбелсосатб\bin\Debug\TwitterLib.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\подбелсосатб\подбелсосатб\bin\Debug\TwitterLib.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\подбелсосатб\подбелсосатб\obj\Debug\подбелсосатб.csproj.CopyComplete

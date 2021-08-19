@@ -1,0 +1,10 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\EKRLib\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\EKRLib\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\EKRLib\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\EKRLib\ConsoleApp2\bin\Debug\EKRLib.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\EKRLib\ConsoleApp2\bin\Debug\EKRLib.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\EKRLib\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\EKRLib\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\EKRLib\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\EKRLib\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\EKRLib\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

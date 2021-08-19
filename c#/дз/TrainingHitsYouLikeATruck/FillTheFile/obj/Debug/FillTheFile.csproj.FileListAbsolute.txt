@@ -1,0 +1,9 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TrainingHitsYouLikeATruck\FillTheFile\bin\Debug\FillTheFile.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TrainingHitsYouLikeATruck\FillTheFile\bin\Debug\FillTheFile.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TrainingHitsYouLikeATruck\FillTheFile\bin\Debug\FillTheFile.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TrainingHitsYouLikeATruck\FillTheFile\bin\Debug\ClassLibrary1.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TrainingHitsYouLikeATruck\FillTheFile\bin\Debug\ClassLibrary1.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TrainingHitsYouLikeATruck\FillTheFile\obj\Debug\FillTheFile.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TrainingHitsYouLikeATruck\FillTheFile\obj\Debug\FillTheFile.csproj.CopyComplete
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TrainingHitsYouLikeATruck\FillTheFile\obj\Debug\FillTheFile.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\TrainingHitsYouLikeATruck\FillTheFile\obj\Debug\FillTheFile.pdb

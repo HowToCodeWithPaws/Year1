@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>MainAgain</Title>
+      <Shortcut>ma</Shortcut>
+      <Description>Фрагмент кода для Main</Description>
+      <Author>Me</Author>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Code Language="csharp">
+        <![CDATA[
+        // С помощью цикла do while с условием нажатия клавиши Enter
+        // (проверка с помощью метода Console.ReadKey()) реализуется возможность
+        // повторного решения задачи по желанию пользователя.
+        do
+			{
+			  
+        
+        
+				Console.WriteLine("\nДля повторного решения нажмите Enter, для выхода нажмите любой другой символ");
+
+			} while (Console.ReadKey().Key == ConsoleKey.Enter);]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

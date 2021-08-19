@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>FileAddress</Title>
+      <Shortcut>fa</Shortcut>
+      <Description>Фрагмент кода для ввода адреса файла</Description>
+      <Author>Me</Author>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Code Language="csharp">
+        <![CDATA[
+        			/// Блок do while просит пользователя ввести адрес файла, пока не будет 
+              ///введено подходящее выражение.
+						string path;
+			do
+			{
+				Console.WriteLine("Введите адрес файла");
+
+				path = Console.ReadLine();
+			} while (!new FileInfo(path).Exists);]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

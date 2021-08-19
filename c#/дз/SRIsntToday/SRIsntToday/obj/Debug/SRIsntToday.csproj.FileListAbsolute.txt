@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SRIsntToday\SRIsntToday\bin\Debug\SRIsntToday.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SRIsntToday\SRIsntToday\bin\Debug\SRIsntToday.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SRIsntToday\SRIsntToday\bin\Debug\SRIsntToday.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SRIsntToday\SRIsntToday\obj\Debug\SRIsntToday.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SRIsntToday\SRIsntToday\obj\Debug\SRIsntToday.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SRIsntToday\SRIsntToday\obj\Debug\SRIsntToday.pdb

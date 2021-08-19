@@ -1,0 +1,9 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem12\Sem12\bin\Debug\Sem12.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem12\Sem12\bin\Debug\Sem12.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem12\Sem12\bin\Debug\Sem12.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem12\Sem12\obj\Debug\Sem12.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem12\Sem12\obj\Debug\Sem12.Form1.resources
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem12\Sem12\obj\Debug\Sem12.Properties.Resources.resources
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem12\Sem12\obj\Debug\Sem12.csproj.GenerateResource.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem12\Sem12\obj\Debug\Sem12.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem12\Sem12\obj\Debug\Sem12.pdb

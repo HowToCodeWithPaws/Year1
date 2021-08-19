@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>random double</Title>
+      <Shortcut>rd</Shortcut>
+      <Description>Фрагмент кода для генерации случайного вещественного числа на интервале</Description>
+      <Author>Na</Author>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Code Language="csharp">
+        <![CDATA[
+      	/// <summary>
+		    /// Метод, генерирующий случайное вещественное число в требуемом
+		    /// интервале (левая граница включается) с использованием
+		    /// экземпляра класса Random.
+		    /// </summary>
+		    /// <param name="minvalue"> Параметр левой границы интервала. </param>
+		    /// <param name="maxvalue"> Параметр правой границы интервала. </param>
+		    /// <returns> Возвращает сгенерированное число. </returns>
+		  public static double RandomDouble(double minvalue, double maxvalue)
+		  {
+		      return minvalue + random.NextDouble() * (maxvalue - minvalue);
+		  }
+  
+  ]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

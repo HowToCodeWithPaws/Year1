@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultidimArrays", "Sem7\MultidimArrays.csproj", "{31E19FCC-0881-4887-BA2D-F3FCCBE878FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{A946EB72-78C6-4856-95B0-4A925E916BB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polygon", "Polygon\Polygon.csproj", "{2A68C8E5-417F-48AB-B872-791732DEBEDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31E19FCC-0881-4887-BA2D-F3FCCBE878FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E19FCC-0881-4887-BA2D-F3FCCBE878FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E19FCC-0881-4887-BA2D-F3FCCBE878FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E19FCC-0881-4887-BA2D-F3FCCBE878FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A946EB72-78C6-4856-95B0-4A925E916BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A946EB72-78C6-4856-95B0-4A925E916BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A946EB72-78C6-4856-95B0-4A925E916BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A946EB72-78C6-4856-95B0-4A925E916BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A68C8E5-417F-48AB-B872-791732DEBEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A68C8E5-417F-48AB-B872-791732DEBEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A68C8E5-417F-48AB-B872-791732DEBEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A68C8E5-417F-48AB-B872-791732DEBEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {844A5243-5B54-4742-BF7F-CA84C2FAAB06}
+	EndGlobalSection
+EndGlobal

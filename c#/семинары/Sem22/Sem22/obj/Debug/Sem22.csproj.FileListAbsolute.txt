@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem22\Sem22\bin\Debug\Sem22.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem22\Sem22\bin\Debug\Sem22.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem22\Sem22\bin\Debug\Sem22.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem22\Sem22\obj\Debug\Sem22.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem22\Sem22\obj\Debug\Sem22.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem22\Sem22\obj\Debug\Sem22.pdb

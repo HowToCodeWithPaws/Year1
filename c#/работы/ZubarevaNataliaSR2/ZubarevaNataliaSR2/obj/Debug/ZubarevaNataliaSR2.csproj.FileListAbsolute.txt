@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\ZubarevaNataliaSR2\ZubarevaNataliaSR2\bin\Debug\ZubarevaNataliaSR2.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\ZubarevaNataliaSR2\ZubarevaNataliaSR2\bin\Debug\ZubarevaNataliaSR2.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\ZubarevaNataliaSR2\ZubarevaNataliaSR2\bin\Debug\ZubarevaNataliaSR2.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\ZubarevaNataliaSR2\ZubarevaNataliaSR2\obj\Debug\ZubarevaNataliaSR2.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\ZubarevaNataliaSR2\ZubarevaNataliaSR2\obj\Debug\ZubarevaNataliaSR2.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\ZubarevaNataliaSR2\ZubarevaNataliaSR2\obj\Debug\ZubarevaNataliaSR2.pdb

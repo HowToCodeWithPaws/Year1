@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "serialize", "gettingReady\serialize.csproj", "{B30CCCF8-54CD-40EB-8D23-E9E8E7EECADC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deserialize", "ConsoleApp2\deserialize.csproj", "{1AE1BB63-B2E6-4F14-A7A3-4E4ACA61DF82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EKRLib", "EKRLib\EKRLib.csproj", "{81A25F29-9850-48A6-92F0-347E617C6D38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B30CCCF8-54CD-40EB-8D23-E9E8E7EECADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30CCCF8-54CD-40EB-8D23-E9E8E7EECADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30CCCF8-54CD-40EB-8D23-E9E8E7EECADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30CCCF8-54CD-40EB-8D23-E9E8E7EECADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE1BB63-B2E6-4F14-A7A3-4E4ACA61DF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE1BB63-B2E6-4F14-A7A3-4E4ACA61DF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE1BB63-B2E6-4F14-A7A3-4E4ACA61DF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE1BB63-B2E6-4F14-A7A3-4E4ACA61DF82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A25F29-9850-48A6-92F0-347E617C6D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A25F29-9850-48A6-92F0-347E617C6D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A25F29-9850-48A6-92F0-347E617C6D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A25F29-9850-48A6-92F0-347E617C6D38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30B276EE-C09B-4276-8931-369C4886CCE1}
+	EndGlobalSection
+EndGlobal

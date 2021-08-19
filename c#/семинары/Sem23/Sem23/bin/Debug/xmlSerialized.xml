@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<GroUp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>bpi199</Name>
+  <StUdENTs>
+    <Student>
+      <Name>WOlf</Name>
+    </Student>
+    <Student>
+      <Name>Tiger</Name>
+    </Student>
+  </StUdENTs>
+</GroUp>

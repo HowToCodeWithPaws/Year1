@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem17\somethingPeculiar\bin\Debug\somethingPeculiar.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem17\somethingPeculiar\bin\Debug\somethingPeculiar.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem17\somethingPeculiar\bin\Debug\somethingPeculiar.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem17\somethingPeculiar\obj\Debug\somethingPeculiar.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem17\somethingPeculiar\obj\Debug\somethingPeculiar.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem17\somethingPeculiar\obj\Debug\somethingPeculiar.pdb

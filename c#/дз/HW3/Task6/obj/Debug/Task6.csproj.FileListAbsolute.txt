@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW3\Task6\bin\Debug\Task6.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW3\Task6\bin\Debug\Task6.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW3\Task6\bin\Debug\Task6.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW3\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW3\Task6\obj\Debug\Task6.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW3\Task6\obj\Debug\Task6.pdb

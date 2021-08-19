@@ -1,0 +1,7 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem5\Transponating\bin\Debug\Transponating.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem5\Transponating\bin\Debug\Transponating.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem5\Transponating\bin\Debug\Transponating.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem5\Transponating\obj\Debug\Transponating.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem5\Transponating\obj\Debug\Transponating.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem5\Transponating\obj\Debug\Transponating.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem5\Transponating\obj\Debug\Transponating.pdb

@@ -1,0 +1,18 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR32\SR32\bin\Debug\SR32.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR32\SR32\bin\Debug\SR32.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR32\SR32\bin\Debug\SR32.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR32\SR32\bin\Debug\ClassLibrary1.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR32\SR32\bin\Debug\ClassLibrary1.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR32\SR32\obj\Debug\SR32.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR32\SR32\obj\Debug\SR32.csproj.CopyComplete
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR32\SR32\obj\Debug\SR32.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR32\SR32\obj\Debug\SR32.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Зубарева Наталия СР3\SR32\bin\Debug\SR32.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Зубарева Наталия СР3\SR32\bin\Debug\SR32.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Зубарева Наталия СР3\SR32\bin\Debug\SR32.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Зубарева Наталия СР3\SR32\bin\Debug\ClassLibrary1.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Зубарева Наталия СР3\SR32\bin\Debug\ClassLibrary1.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Зубарева Наталия СР3\SR32\obj\Debug\SR32.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Зубарева Наталия СР3\SR32\obj\Debug\SR32.csproj.CopyComplete
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Зубарева Наталия СР3\SR32\obj\Debug\SR32.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Зубарева Наталия СР3\SR32\obj\Debug\SR32.pdb

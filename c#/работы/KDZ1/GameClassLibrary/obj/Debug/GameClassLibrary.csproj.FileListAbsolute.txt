@@ -1,0 +1,15 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\GameClassLibrary\GameClassLibrary\bin\Debug\GameClassLibrary.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\GameClassLibrary\GameClassLibrary\bin\Debug\GameClassLibrary.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\GameClassLibrary\GameClassLibrary\obj\Debug\GameClassLibrary.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\GameClassLibrary\GameClassLibrary\obj\Debug\GameClassLibrary.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\GameClassLibrary\GameClassLibrary\obj\Debug\GameClassLibrary.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\KDZ\GameClassLibrary\bin\Debug\GameClassLibrary.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\KDZ\GameClassLibrary\bin\Debug\GameClassLibrary.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\KDZ\GameClassLibrary\obj\Debug\GameClassLibrary.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\KDZ\GameClassLibrary\obj\Debug\GameClassLibrary.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\KDZ\GameClassLibrary\obj\Debug\GameClassLibrary.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\дз\KDZ\GameClassLibrary\bin\Debug\GameClassLibrary.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\дз\KDZ\GameClassLibrary\bin\Debug\GameClassLibrary.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\дз\KDZ\GameClassLibrary\obj\Debug\GameClassLibrary.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\дз\KDZ\GameClassLibrary\obj\Debug\GameClassLibrary.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\дз\KDZ\GameClassLibrary\obj\Debug\GameClassLibrary.pdb

@@ -1,0 +1,9 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem16\SR\bin\Debug\SR.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem16\SR\bin\Debug\SR.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem16\SR\bin\Debug\SR.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem16\SR\bin\Debug\ClassLibrary1.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem16\SR\bin\Debug\ClassLibrary1.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem16\SR\obj\Debug\SR.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem16\SR\obj\Debug\SR.csproj.CopyComplete
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem16\SR\obj\Debug\SR.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\семинары\Sem16\SR\obj\Debug\SR.pdb

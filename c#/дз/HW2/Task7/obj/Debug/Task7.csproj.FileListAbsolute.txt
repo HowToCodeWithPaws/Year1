@@ -1,0 +1,7 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW2\Task7\bin\Debug\Task7.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW2\Task7\bin\Debug\Task7.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW2\Task7\bin\Debug\Task7.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW2\Task7\obj\Debug\Task7.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW2\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW2\Task7\obj\Debug\Task7.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\HW2\Task7\obj\Debug\Task7.pdb

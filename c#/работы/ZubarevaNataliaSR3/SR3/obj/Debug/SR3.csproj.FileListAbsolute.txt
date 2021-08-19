@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR3\SR3\bin\Debug\SR3.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR3\SR3\bin\Debug\SR3.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR3\SR3\bin\Debug\SR3.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR3\SR3\obj\Debug\SR3.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR3\SR3\obj\Debug\SR3.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\SR3\SR3\obj\Debug\SR3.pdb

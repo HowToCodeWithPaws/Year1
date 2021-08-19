@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>PrintArrayMultidimensional</Title>
+      <Shortcut>apm</Shortcut>
+      <Description>Фрагмент кода для вывода многомерного массива</Description>
+      <Author>Me</Author>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>type</ID>
+          <ToolTip>Тип элементов в выводимом массиве</ToolTip>
+          <Default>int</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="csharp">
+        <![CDATA[
+        /// <summary>
+		/// Метод печатает двумерный массив, переданный по ссылке, 
+		/// разделяя строки переносами и элементы отступами в 
+		/// вложенных циклах for для измерений массива.
+		/// </summary>
+		/// <param name="array"> Ссылка на массив. </param>
+		public static void PrintArray($type$[,] array)
+		{
+			for (int i = 0; i < array.GetLength(0); i++)
+			{
+				for (int j = 0; j < array.GetLength(1); j++)
+				{
+					Console.Write("{0,3}", array[i, j]);
+				}
+				Console.WriteLine();
+			}
+		}]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

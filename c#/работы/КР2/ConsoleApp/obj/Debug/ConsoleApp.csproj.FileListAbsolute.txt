@@ -1,0 +1,9 @@
+C:\Users\Natalya\Desktop\ZubarevaNataliaKR\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Natalya\Desktop\ZubarevaNataliaKR\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Natalya\Desktop\ZubarevaNataliaKR\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Natalya\Desktop\ZubarevaNataliaKR\ConsoleApp\bin\Debug\Lib.dll
+C:\Users\Natalya\Desktop\ZubarevaNataliaKR\ConsoleApp\bin\Debug\Lib.pdb
+C:\Users\Natalya\Desktop\ZubarevaNataliaKR\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\ZubarevaNataliaKR\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\Natalya\Desktop\ZubarevaNataliaKR\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Natalya\Desktop\ZubarevaNataliaKR\ConsoleApp\obj\Debug\ConsoleApp.pdb

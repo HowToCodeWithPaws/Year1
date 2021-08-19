@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>PrintArray</Title>
+      <Shortcut>ap</Shortcut>
+      <Description>Фрагмент кода для вывода массива</Description>
+      <Author>Me</Author>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>type</ID>
+          <ToolTip>Тип элементов в выводимом массиве</ToolTip>
+          <Default>int</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="csharp">
+        <![CDATA[
+        /// <summary>
+		/// Метод осуществляет вывод элементов переданного по ссылке 
+		/// массива данного типа в цикле foreach.
+		/// </summary>
+		/// <param name="array"> Метод принимает на вход ссылку на 
+		/// массив определенного типа. </param>	
+		static void PrintArray($type$[] array)
+		{
+			foreach ($type$ item in array)
+			{
+				Console.Write(item + " ");
+			}
+		}]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

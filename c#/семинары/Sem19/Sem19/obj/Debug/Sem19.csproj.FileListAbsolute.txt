@@ -1,0 +1,9 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem19\Sem19\bin\Debug\Sem19.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem19\Sem19\bin\Debug\Sem19.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem19\Sem19\bin\Debug\Sem19.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem19\Sem19\obj\Debug\Sem19.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem19\Sem19\obj\Debug\Sem19.Form1.resources
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem19\Sem19\obj\Debug\Sem19.Properties.Resources.resources
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem19\Sem19\obj\Debug\Sem19.csproj.GenerateResource.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem19\Sem19\obj\Debug\Sem19.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem19\Sem19\obj\Debug\Sem19.pdb

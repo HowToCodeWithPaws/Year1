@@ -1,0 +1,7 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem3\Sem3\obj\Debug\Sem3.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem3\Sem3\obj\Debug\Sem3.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem3\Sem3\bin\Debug\Sem3.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem3\Sem3\bin\Debug\Sem3.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem3\Sem3\bin\Debug\Sem3.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem3\Sem3\obj\Debug\Sem3.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem3\Sem3\obj\Debug\Sem3.pdb

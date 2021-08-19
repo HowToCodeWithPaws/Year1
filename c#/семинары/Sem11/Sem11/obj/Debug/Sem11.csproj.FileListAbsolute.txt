@@ -1,0 +1,11 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem11\Sem11\bin\Debug\Sem11.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem11\Sem11\bin\Debug\Sem11.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem11\Sem11\bin\Debug\Sem11.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem11\Sem11\bin\Debug\ClassLibrary1.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem11\Sem11\bin\Debug\GameClassLibrary.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem11\Sem11\bin\Debug\ClassLibrary1.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem11\Sem11\bin\Debug\GameClassLibrary.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem11\Sem11\obj\Debug\Sem11.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem11\Sem11\obj\Debug\Sem11.csproj.CopyComplete
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem11\Sem11\obj\Debug\Sem11.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem11\Sem11\obj\Debug\Sem11.pdb

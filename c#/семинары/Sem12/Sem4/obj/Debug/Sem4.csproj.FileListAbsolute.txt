@@ -1,0 +1,9 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\KDZ\Sem4\bin\Debug\Sem4.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\KDZ\Sem4\bin\Debug\Sem4.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\KDZ\Sem4\bin\Debug\Sem4.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\KDZ\Sem4\obj\Debug\Sem4.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\KDZ\Sem4\obj\Debug\Sem4.Form1.resources
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\KDZ\Sem4\obj\Debug\Sem4.Properties.Resources.resources
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\KDZ\Sem4\obj\Debug\Sem4.csproj.GenerateResource.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\KDZ\Sem4\obj\Debug\Sem4.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\KDZ\Sem4\obj\Debug\Sem4.pdb

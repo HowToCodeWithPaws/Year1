@@ -1,0 +1,7 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem4\Sem4\bin\Debug\Sem4.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem4\Sem4\bin\Debug\Sem4.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem4\Sem4\bin\Debug\Sem4.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem4\Sem4\obj\Debug\Sem4.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem4\Sem4\obj\Debug\Sem4.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem4\Sem4\obj\Debug\Sem4.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem4\Sem4\obj\Debug\Sem4.pdb

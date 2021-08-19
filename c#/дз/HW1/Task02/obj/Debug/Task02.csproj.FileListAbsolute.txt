@@ -1,0 +1,7 @@
+C:\Users\Natalya\source\repos\ConsoleApp1\Task02\bin\Debug\Task02.exe.config
+C:\Users\Natalya\source\repos\ConsoleApp1\Task02\bin\Debug\Task02.exe
+C:\Users\Natalya\source\repos\ConsoleApp1\Task02\bin\Debug\Task02.pdb
+C:\Users\Natalya\source\repos\ConsoleApp1\Task02\obj\Debug\Task02.csprojAssemblyReference.cache
+C:\Users\Natalya\source\repos\ConsoleApp1\Task02\obj\Debug\Task02.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\source\repos\ConsoleApp1\Task02\obj\Debug\Task02.exe
+C:\Users\Natalya\source\repos\ConsoleApp1\Task02\obj\Debug\Task02.pdb

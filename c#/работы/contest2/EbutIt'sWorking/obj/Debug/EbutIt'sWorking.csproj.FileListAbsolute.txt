@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\EbutIt'sWorking\bin\Debug\EbutIt'sWorking.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\EbutIt'sWorking\bin\Debug\EbutIt'sWorking.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\EbutIt'sWorking\bin\Debug\EbutIt'sWorking.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\EbutIt'sWorking\obj\Debug\EbutIt'sWorking.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\EbutIt'sWorking\obj\Debug\EbutIt'sWorking.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\EbutIt'sWorking\obj\Debug\EbutIt'sWorking.pdb

@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\подбелсосатб\TwitterLib\bin\Debug\TwitterLib.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\подбелсосатб\TwitterLib\bin\Debug\TwitterLib.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\подбелсосатб\TwitterLib\obj\Debug\TwitterLib.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\подбелсосатб\TwitterLib\obj\Debug\TwitterLib.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\подбелсосатб\TwitterLib\obj\Debug\TwitterLib.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\подбелсосатб\TwitterLib\obj\Debug\TwitterLib.pdb

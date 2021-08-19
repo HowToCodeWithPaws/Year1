@@ -1,0 +1,13 @@
+C:\Users\Natalya\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Natalya\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Natalya\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Natalya\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Task01.csprojAssemblyReference.cache
+C:\Users\Natalya\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Task01.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Natalya\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\дз\HW1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\дз\HW1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\дз\HW1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\дз\HW1\ConsoleApp1\obj\Debug\Task01.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\дз\HW1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\c#\дз\HW1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

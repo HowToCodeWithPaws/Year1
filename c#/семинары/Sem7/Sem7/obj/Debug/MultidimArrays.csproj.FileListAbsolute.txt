@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem7\Sem7\bin\Debug\Sem7.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem7\Sem7\bin\Debug\Sem7.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem7\Sem7\bin\Debug\Sem7.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem7\Sem7\obj\Debug\MultidimArrays.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem7\Sem7\obj\Debug\Sem7.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem7\Sem7\obj\Debug\Sem7.pdb

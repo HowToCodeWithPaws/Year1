@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem7\Polygon\bin\Debug\Polygon.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem7\Polygon\bin\Debug\Polygon.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem7\Polygon\bin\Debug\Polygon.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem7\Polygon\obj\Debug\Polygon.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem7\Polygon\obj\Debug\Polygon.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\Sem7\Polygon\obj\Debug\Polygon.pdb

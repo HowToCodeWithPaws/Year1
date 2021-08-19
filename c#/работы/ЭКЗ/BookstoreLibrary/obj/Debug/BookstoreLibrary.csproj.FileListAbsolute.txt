@@ -1,0 +1,6 @@
+C:\Users\Natalya\Desktop\BookstoreLibrary\BookstoreLibrary\obj\Debug\BookstoreLibrary.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\BookstoreLibrary\BookstoreLibrary\obj\Debug\BookstoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\BookstoreLibrary\BookstoreLibrary\bin\Debug\BookstoreLibrary.dll
+C:\Users\Natalya\Desktop\BookstoreLibrary\BookstoreLibrary\bin\Debug\BookstoreLibrary.pdb
+C:\Users\Natalya\Desktop\BookstoreLibrary\BookstoreLibrary\obj\Debug\BookstoreLibrary.dll
+C:\Users\Natalya\Desktop\BookstoreLibrary\BookstoreLibrary\obj\Debug\BookstoreLibrary.pdb

@@ -1,0 +1,12 @@
+lp(X):-d(X), lc(X).
+d(a).
+lc(a).
+
+r(X):-c(X).
+f(X):-c(X).
+o(a).
+c(a).
+
+human(X):-man(X).
+quadruped(X):- human(X), !, fail.
+man(a).

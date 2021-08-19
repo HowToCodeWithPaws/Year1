@@ -1,0 +1,9 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\MyExamIsntToday\MyExamIsntToday\bin\Debug\MyExamIsntToday.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\MyExamIsntToday\MyExamIsntToday\bin\Debug\MyExamIsntToday.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\MyExamIsntToday\MyExamIsntToday\bin\Debug\MyExamIsntToday.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\MyExamIsntToday\MyExamIsntToday\bin\Debug\ClassLibrary1.dll
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\MyExamIsntToday\MyExamIsntToday\bin\Debug\ClassLibrary1.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\MyExamIsntToday\MyExamIsntToday\obj\Debug\MyExamIsntToday.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\MyExamIsntToday\MyExamIsntToday\obj\Debug\MyExamIsntToday.csproj.CopyComplete
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\MyExamIsntToday\MyExamIsntToday\obj\Debug\MyExamIsntToday.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\MyExamIsntToday\MyExamIsntToday\obj\Debug\MyExamIsntToday.pdb

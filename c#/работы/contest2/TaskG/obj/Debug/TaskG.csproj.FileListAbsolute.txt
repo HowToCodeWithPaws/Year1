@@ -1,0 +1,7 @@
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskG\bin\Debug\TaskG.exe.config
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskG\bin\Debug\TaskG.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskG\bin\Debug\TaskG.pdb
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskG\obj\Debug\TaskG.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskG\obj\Debug\TaskG.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskG\obj\Debug\TaskG.exe
+C:\Users\Natalya\Desktop\TheCodeSoFar\HSE\contest2\TaskG\obj\Debug\TaskG.pdb
